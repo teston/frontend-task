@@ -34,7 +34,7 @@ A few tips on getting started from us:
 When evaluating your work, we will be looking at a combination of styling, interaction and logic, but in this task we'll focus the most on the styling and interaction aspects. For instance, a good CSS and HTML structure may be weighed more than great input validation.  
 
 #### Delivery
-Share the work with us (e.g. by pushing the work to a new repo and adding `semonje` as a collaborator, sending it on e-mail, etc).
+Share the work with us (e.g. by pushing the work to a new repo and adding `semonje` as a collaborator, or send us an e-mail with it, or similar).
 
 #### Questions
-If you have any questions about the assignment or about Teston, please send a mail to simon.dagfinrud@teston.io, who will try to answer you as soon as possible!
+If you have any questions about the assignment, or about Teston, please send a mail to simon.dagfinrud@teston.io. He'll try to answer you as soon as possible!
